@@ -1,0 +1,11 @@
+/* Made by StonemantleArg 
+HackerRank: https://www.hackerrank.com/juanmrebisso
+Github: https://github.com/stonemantlearg */
+
+public class Solution {
+
+    public static void main(String[] args) {
+        System.out.println("Hello, World.");
+        System.out.println("Hello, Java.");
+    }
+}
